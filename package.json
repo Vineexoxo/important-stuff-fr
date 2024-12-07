@@ -2,7 +2,7 @@
   "homepage": "http://Vineexoxo.github.io/",
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "confetti": "^2.0.3",
     "cra-template": "1.2.0",
